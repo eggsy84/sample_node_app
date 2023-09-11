@@ -20,7 +20,7 @@ jobs:
           pkg-manager: npm
       - run:
           command: npm run test
-          name: Run tests
+          name: Run tests for James
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
